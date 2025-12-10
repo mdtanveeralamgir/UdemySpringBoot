@@ -15,5 +15,8 @@
     - IOC: Inversion of control. Means the spring FW is in control not the developer.
 ## 198:
     - Making a bean primary by adding @Primary annotation
+## 199:
+    - Maven manages all the dependencies in the java project
+    - Using pom.xml the dependency can be changed
 
 
