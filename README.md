@@ -13,5 +13,7 @@
     - Spring FW finds a component by searcing the @component tags
     in the current package
     - IOC: Inversion of control. Means the spring FW is in control not the developer.
+## 198:
+    - Making a bean primary by adding @Primary annotation
 
 
