@@ -53,3 +53,7 @@
 
 ## 21: path variable
     - passing variable using query string
+
+## 26: POST with @RequestBody
+    - Sending JSON usng @RequestBody
+    - Creating a new user with POST
