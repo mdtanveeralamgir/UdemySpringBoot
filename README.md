@@ -59,3 +59,6 @@
     - Creating a new user with POST
 ## 27: sending new user location
     - Send newly created user's uri after saving it
+
+## 29: Custom error with appropiate code
+    - Handling cusom error with appropiate code
