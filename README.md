@@ -57,3 +57,5 @@
 ## 26: POST with @RequestBody
     - Sending JSON usng @RequestBody
     - Creating a new user with POST
+## 27: sending new user location
+    - Send newly created user's uri after saving it
