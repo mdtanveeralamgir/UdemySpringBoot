@@ -1,10 +1,15 @@
 package com.in28minutes.rest.webservices.restful_web_services.user;
 
+import jakarta.validation.constraints.Past;
+import jakarta.validation.constraints.Size;
+
 import java.time.LocalDate;
 
 public class User {
     private Integer id;
+    @Size(min = 2, message = "At least 2 char")
     private String name;
+    @Past(message = "Time travel not allowed")
     private LocalDate birthDate;
 
     public User() {

@@ -64,3 +64,6 @@
     - Handling cusom error with appropiate code
 ## 31: ResponseEntityExceptionHandler 
     - override ResponseEntityExceptionHandler to customize error handeling
+
+## 33: Validation jakarta validation
+    - validate and send appropiate response using jakarta validation
