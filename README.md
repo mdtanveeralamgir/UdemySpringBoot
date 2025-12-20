@@ -62,3 +62,5 @@
 
 ## 29: Custom error with appropiate code
     - Handling cusom error with appropiate code
+## 31: ResponseEntityExceptionHandler 
+    - override ResponseEntityExceptionHandler to customize error handeling
