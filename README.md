@@ -67,3 +67,7 @@
 
 ## 33: Validation jakarta validation
     - validate and send appropiate response using jakarta validation
+## 37: Swagger open api
+    - Install swagger open api
+    - Get the details of api endpoints
+    - get the json documentation of apis
