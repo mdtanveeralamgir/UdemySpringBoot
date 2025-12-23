@@ -71,3 +71,6 @@
     - Install swagger open api
     - Get the details of api endpoints
     - get the json documentation of apis
+
+## 39: Internationalization
+    - receiving data in different languages
