@@ -77,3 +77,9 @@
     
  ## 41: Versioning using query string
  	- Different response based on the different version in query string.
+ 	
+ ## 42: Versioning
+ 	- URI versioning. "person/V2/somethingelse
+ 	- Query param: "person?version=1"
+ 	- Headers: passing version number as using header "X-API-VERSION"
+ 	- Media type: passing version number as Accept through "application/vnd.company.app-v2+json"
