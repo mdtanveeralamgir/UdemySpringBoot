@@ -75,11 +75,14 @@
 ## 39: Internationalization
     - receiving data in different languages
     
- ## 41: Versioning using query string
+## 41: Versioning using query string
  	- Different response based on the different version in query string.
  	
- ## 42: Versioning
+## 42: Versioning
  	- URI versioning. "person/V2/somethingelse
  	- Query param: "person?version=1"
  	- Headers: passing version number as using header "X-API-VERSION"
- 	- Media type: passing version number as Accept through "application/vnd.company.app-v2+json"
+ 	- Media type: passing version number as Accept through "application/				vnd.company.app-v2+json"
+ 	
+## 43: adding link using HATEOAS
+	- Adding Links in an API response using library HATEOAS
