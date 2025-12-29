@@ -5,9 +5,12 @@ import jakarta.validation.constraints.Size;
 
 import java.time.LocalDate;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class User {
     private Integer id;
     @Size(min = 2, message = "At least 2 char")
+    @JsonProperty("user_name")
     private String name;
     @Past(message = "Time travel not allowed")
     private LocalDate birthDate;
