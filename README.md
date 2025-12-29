@@ -91,3 +91,6 @@
 	- Change the property name of response. name to user_name
 	- static filtering: apply to all the instance of a class
 	
+## 45: dynamic filtering
+	- filter fields based on the end point you hit
+	
