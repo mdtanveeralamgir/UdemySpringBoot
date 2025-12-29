@@ -87,5 +87,7 @@
 ## 43: adding link using HATEOAS
 	- Adding Links in an API response using library HATEOAS
 	
-## 44: Serialization,
+## 44: Serialization, static
 	- Change the property name of response. name to user_name
+	- static filtering: apply to all the instance of a class
+	
