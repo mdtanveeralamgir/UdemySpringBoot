@@ -93,4 +93,5 @@
 	
 ## 45: dynamic filtering
 	- filter fields based on the end point you hit
+	- spring boot 3> doesn't support MappingJacsonValue, need to use Map and Hashmap
 	
