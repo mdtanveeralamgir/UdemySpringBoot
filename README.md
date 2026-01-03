@@ -95,3 +95,6 @@
 	- filter fields based on the end point you hit
 	- spring boot 3> doesn't support MappingJacsonValue, need to use Map and Hashmap
 	
+## 46: Actuator
+	- actuator. app health, endpoints, http request details etc
+	
