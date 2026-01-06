@@ -98,3 +98,6 @@
 ## 46: Actuator
 	- actuator. app health, endpoints, http request details etc
 	
+## 47: Hal Explorer
+	- Explorer the end points and send request to the end point
+	
