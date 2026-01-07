@@ -99,5 +99,8 @@
 	- actuator. app health, endpoints, http request details etc
 	
 ## 47: Hal Explorer
-	- Explorer the end points and send request to the end point
+	- 
+
+## 52: JpaRepository
+	- using JpaRepository to connect to DB and perform curd operation
 	
