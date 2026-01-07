@@ -1,5 +1,8 @@
 package com.in28minutes.rest.webservices.restful_web_services.user;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.Id;
 import jakarta.validation.constraints.Past;
 import jakarta.validation.constraints.Size;
 
@@ -7,7 +10,11 @@ import java.time.LocalDate;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+@Entity(name="user_details")
 public class User {
+	
+	@Id
+	@GeneratedValue
     private Integer id;
     @Size(min = 2, message = "At least 2 char")
     @JsonProperty("user_name")
